@@ -5,11 +5,12 @@ A TOC generator that can generate the table of contents for `.md` files.
 ## Feature
 - Generate multiple `.md` files in the same directory.
 - Update existing TOC easily.
+- **Support `.md` files in any language**, such as Chinese and English.
 
 ## Usage
 
 ### Generate TOC
-Put `.md` files and `lsw_toc.py` in the same directory.
+Put `lsw_toc.py`, `helper.py`, and `.md` files in the same directory.
 
 Run in terminal:
 
